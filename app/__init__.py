@@ -1,3 +1,0 @@
-"""
-Colexa FastAPI Backend Package
-"""
